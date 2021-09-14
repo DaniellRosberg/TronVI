@@ -1,0 +1,15 @@
+.idea/misc.xml
+.idea/modules.xml
+.idea/TronVI.iml
+.idea/inspectionProfiles/profiles_settings.xml
+__pycache__/main.cpython-39.pyc
+utils/smtp_utils.py
+utils/__pycache__/__init__.cpython-39.pyc
+utils/__pycache__/smtp_utils.cpython-39.pyc
+venv/Scripts/python.exe
+venv/Scripts/pythonw.exe
+venv/Scripts/wheel.exe
+venv/Scripts/wheel3.9.exe
+venv/Scripts/wheel-3.9.exe
+venv/Scripts/wheel3.exe
+.idea/workspace.xml
